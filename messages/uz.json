@@ -14,32 +14,46 @@
       "title2":"#ICT Veni, Vidi, Vici",
       "title3":"Contact"
     },
-  "Services": {
-    "title": "Xizmatlarimiz",
-    "button": "Batafsil",
-    "items": {
-      "MMXM": {
-        "title": "MMXM Bootcamp",
-        "price": "$444",
-        "link": "https://example.com/mmxm",
-        "description": [
-          "Jonli savdo sessiyalari",
-          "ICT asoslari",
-          "Smart money tushunchasi"
-        ]
-      },
-      "OTE": {
-        "title": "OTE Mentorship",
-        "price": "$222",
-        "link": "https://example.com/ote",
-        "description": [
-          "O‘ziga xos ICT strategiyasi",
-          "Haftalik sessiyalar",
-          "Savollarga javob"
-        ]
-      }
-    }
-  }
+	"Services": {
+		"title": "Plans",
+		"join": "Join Now",
+		"learnMore": "Learn more",
+		"items": {
+			"0": {
+				"title": "Discord Community:",
+				"price": "",
+				"description": [
+					"1st month subscription price: $36",
+					"2st month subscription price: $46",
+					"3st month subscription price: $56"
+				],
+				"link": "https://youtu.be/A7_pKJn0syQ?si=fHul5_dNj4h99Bug",
+				"image": "/images/public/photo_2024-01-02_20-00-52__2_-removebg-preview (1).png"
+			},
+			"1": {
+				"title": "MMXM BOOTCAMP:",
+				"price": "$444",
+				"description": [
+					"Limited edition: 11 people",
+					"Mentorship duration: 2 months",
+          "+ Bonus free discord community forever"
+				],
+				"link": "https://youtu.be/wUT9jPy_z_o?si=DQKT3qsHDnmuT6_7",
+				"image": "/images/service-2.png"
+			},
+			"2": {
+				"title": "MMXM PREMIUM MENTORSHIP:",
+				"price": "2.999$ for 2 months",
+				"description": [
+					"Individually taken OFFLINE",
+					"Duration of the course: 2 months",
+					"+ Bonus free discord community forever"
+				],
+				"link": "https://youtu.be/cT-Zg0Dzdik?si=jOQIX1PRorEEREE4",
+				"image": "/images/service-3.png"
+			}
+		}
+	}
 
 
   }
