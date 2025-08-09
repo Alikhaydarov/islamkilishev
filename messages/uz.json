@@ -1,0 +1,45 @@
+{
+    "Index": {
+      "title": "salom oka"
+    },
+    "Header":{
+      "link1": "BIZ HAQIMIZDA",
+      "link2": "XIZMATLAR",
+      "link3": "PORTFOLIO",
+      "link4": "KARYERA",
+      "link5": "BLOG"
+    },
+    "Hero":{
+      "title1":"ASTROMARCUS_IK!",
+      "title2":"#ICT Veni, Vidi, Vici",
+      "title3":"Contact"
+    },
+  "Services": {
+    "title": "Xizmatlarimiz",
+    "button": "Batafsil",
+    "items": {
+      "MMXM": {
+        "title": "MMXM Bootcamp",
+        "price": "$444",
+        "link": "https://example.com/mmxm",
+        "description": [
+          "Jonli savdo sessiyalari",
+          "ICT asoslari",
+          "Smart money tushunchasi"
+        ]
+      },
+      "OTE": {
+        "title": "OTE Mentorship",
+        "price": "$222",
+        "link": "https://example.com/ote",
+        "description": [
+          "O‘ziga xos ICT strategiyasi",
+          "Haftalik sessiyalar",
+          "Savollarga javob"
+        ]
+      }
+    }
+  }
+
+
+  }

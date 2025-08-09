@@ -1,0 +1,58 @@
+{
+	"Index": {
+		"title": "Hello world!"
+	},
+	"Header": {
+		"link1": "PLANS",
+		"link2": "ABOUT",
+		"link3": "FAQ",
+		"link4": "PRODUCTS",
+		"link5": "CONTACT"
+	},
+	"Hero": {
+		"title1": "ASTROMARCUS_IK!",
+		"title2": "#ICT Veni, Vidi, Vici",
+		"title3": "Contact"
+	},
+
+	"Services": {
+		"title": "Plans",
+		"join": "Join Now",
+		"learnMore": "Learn more",
+		"items": {
+			"0": {
+				"title": "Discord Community:",
+				"price": "",
+				"description": [
+					"1st month subscription price: $36",
+					"2st month subscription price: $46",
+					"3st month subscription price: $56"
+				],
+				"link": "https://t.me/MMXM",
+				"image": "/images/public/photo_2024-01-02_20-00-52__2_-removebg-preview (1).png"
+			},
+			"1": {
+				"title": "MMXM BOOTCAMP:",
+				"price": "$444",
+				"description": [
+					"Limited edition: 11 people",
+					"Mentorship duration: 2 months",
+          "+ Bonus free discord community forever"
+				],
+				"link": "https://t.me/SignalsChannel",
+				"image": "/images/service-2.png"
+			},
+			"2": {
+				"title": "MMXM PREMIUM MENTORSHIP:",
+				"price": "2.999$ for 2 months",
+				"description": [
+					"Individually taken OFFLINE",
+					"Duration of the course: 2 months",
+					"+ Bonus free discord community forever"
+				],
+				"link": "https://t.me/MentorshipForm",
+				"image": "/images/service-3.png"
+			}
+		}
+	}
+}
