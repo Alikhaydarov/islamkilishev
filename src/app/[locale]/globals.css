@@ -13,3 +13,16 @@
     animation: textRotation 8s linear infinite;
   }
 }
+.neon-text {
+  text-shadow: 0 0 5px #0ea5e9, 0 0 10px #0ea5e9, 0 0 20px #3b82f6;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0; transform: translateY(20px);}
+  100% {opacity:1; transform: translateY(0);}
+}
+
+.animate-fadeIn {
+  animation: fadeIn 1.5s ease forwards;
+}
+

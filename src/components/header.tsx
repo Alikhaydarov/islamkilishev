@@ -53,7 +53,7 @@ function Header() {
 						<Link href='#' className='text-gray-800 dark:text-white hover:text-gray-400 transition'>{t('link3')}</Link>
 						<Link href='#' className='text-gray-800 dark:text-white hover:text-gray-400 transition'>{t('link4')}</Link>
 						<Link href='#' className='text-gray-800 dark:text-white hover:text-gray-400 transition'>{t('link5')}</Link>
-						<LocaleSwitcher />
+						{/* <LocaleSwitcher /> */}
 						<ThemeToggle />
 					</div>
 				</nav>
@@ -83,7 +83,7 @@ function Header() {
 					</div>
 		{/* Locale + Theme Toggle */}
 		<div className='absolute bottom-6 flex gap-4'>
-						<LocaleSwitcher />
+						{/* <LocaleSwitcher /> */}
 						<ThemeToggle />
 					</div>
 					{/* Social Icons */}

@@ -32,8 +32,8 @@ export default function Services() {
 	})
 
 	return (
-		<div className='w-full py-12 px-4 text-white'>
-			<h1 className='text-4xl font-bold text-center mb-12 sm:mt-16'>
+		<div className='w-full py-10 px-4 text-white'>
+			<h1 className='text-4xl font-bold text-center mb-12 '>
 				{t('title')}
 			</h1>
 
@@ -82,9 +82,9 @@ export default function Services() {
 							</a>
 						)}
 
-						<button className='w-full py-2 text-[13px] font-medium rounded-lg bg-gradient-to-r from-violet-600 to-purple-700 hover:opacity-90 transition-all duration-200'>
+						<a href=""><button className='w-full py-2 text-[13px] font-medium rounded-lg bg-gradient-to-r from-violet-600 to-purple-700 hover:opacity-90 transition-all duration-200'>
 							{t('join')}
-						</button>
+						</button></a>
 					</div>
 				))}
 			</div>
