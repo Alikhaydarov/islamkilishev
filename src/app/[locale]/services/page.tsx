@@ -82,7 +82,7 @@ export default function Services() {
 							</a>
 						)}
 
-						<a href=""><button className='w-full py-2 text-[13px] font-medium rounded-lg bg-gradient-to-r from-violet-600 to-purple-700 hover:opacity-90 transition-all duration-200'>
+						<a href="https://t.me/IslamKilichev"><button className='w-full py-2 text-[13px] font-medium rounded-lg bg-gradient-to-r from-violet-600 to-purple-700 hover:opacity-90 transition-all duration-200'>
 							{t('join')}
 						</button></a>
 					</div>

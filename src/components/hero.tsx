@@ -29,9 +29,9 @@ export default function Home() {
     </div>
   </div>
 
-  <button className="mt-8 bg-blue-500 hover:bg-blue-600 px-6 py-3 rounded-full shadow-lg">
-    Learn More
-  </button>
+  <a href="https://t.me/IslamKilichev"><button className="mt-8 bg-blue-500 hover:bg-blue-600 px-6 py-3 rounded-full shadow-lg">
+    Contact
+  </button></a>
 </section>
 
     </main>
